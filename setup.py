@@ -36,6 +36,7 @@ setup(
         'zope.sqlalchemy',
         'pyramid_jinja2',
         'mock',
+        'babel',
 #        'pyramid_webassets',
 #        'pyramid_marrowmailer',
     ],
